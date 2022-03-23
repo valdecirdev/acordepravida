@@ -1,0 +1,93 @@
+[
+    {
+        "chord": "C",
+        "image": "C",
+        "name": "Dó Maior",
+        "notes": [
+            "Dó",
+            "Mi",
+            "Sol"
+        ]
+    }, {
+        "chord": "Dm",
+        "image": "Dm",
+        "name": "Ré Menor",
+        "notes": [
+            "Ré",
+            "Fá",
+            "Lá"
+        ]
+    }, {
+        "chord": "Em",
+        "image": "Em",
+        "name": "Mi Menor",
+        "notes": [
+            "Mi",
+            "Sol",
+            "Si"
+        ]
+    }, {
+        "chord": "F",
+        "image": "F",
+        "name": "Fá Maior",
+        "notes": [
+            "Fá",
+            "Lá",
+            "Dó"
+        ]
+    }, {
+        "chord": "G",
+        "image": "G",
+        "name": "Sol Maior",
+        "notes": [
+            "Sol",
+            "Si",
+            "Ré"
+        ]
+    }, {
+        "chord": "Am",
+        "image": "Am",
+        "name": "Lá Menor",
+        "notes": [
+            "Lá",
+            "Dó",
+            "Mi"
+        ]
+    }, {
+        "chord": "B°",
+        "image": "Bdim",
+        "name": "Si Diminuto",
+        "notes": [
+            "Si",
+            "Ré",
+            "Fá"
+        ]
+    }, {
+        "chord": "Bm",
+        "image": "Bm",
+        "name": "Si Menor",
+        "notes": [
+            "Si",
+            "Ré",
+            "Fá#"
+        ]
+    }, {
+        "chord": "D",
+        "image": "D",
+        "name": "Ré Maior",
+        "notes": [
+            "Ré",
+            "Fá#",
+            "Lá"
+        ]
+    }, {
+        "chord": "F#°",
+        "image": "Fsustdim",
+        "name": "Fá Sustenido Diminuto",
+        "notes": [
+            "Fá#",
+            "Lá",
+            "Dó"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+html, body {
+    background: url('assets/images/wallpaper.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    padding-top: 5px;
+}
+
+.glass_effect {
+    background-color: #0000009c;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+#chord-options {
+    padding: 15px;
+    width: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#start_btn {
+    width: 100%;
+    margin-top: 10px;
+    background-color: #50c019;
+    border-color: #50c019;
+    font-weight: bold;
+}
+
+#chord-data {
+    padding: 20px 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#chord-data #instrument {
+    font-size: 15px;
+    font-weight: bold;
+    color: #c4c3c3;
+}
+
+#chord-data #chord-example-image {
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 100%;
+}

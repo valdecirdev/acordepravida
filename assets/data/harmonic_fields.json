@@ -1,0 +1,31 @@
+[
+	{
+		"field": "C",
+        "name": "Dó Maior",
+        "instrument": "keyboard",
+        "instrument_name": "Teclado/Piano/Acordeon",
+        "chords": [
+			"C",
+			"Dm",
+			"Em",
+			"F",
+			"G",
+			"Am",
+			"B°"
+		]
+	}, {
+        "field": "G",
+        "name": "Sol Maior",
+        "instrument": "keyboard",
+        "instrument_name": "Teclado/Piano/Acordeon",
+        "chords": [
+            "G",
+            "Am",
+            "Bm",
+            "C",
+            "D",
+            "Em",
+            "F#°"
+        ]
+    }
+]
